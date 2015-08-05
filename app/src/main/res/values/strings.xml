@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Is It Raining Here?</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_clear">Clear History</string>
+
+    <string name="action_about">About</string>
+
+</resources>
